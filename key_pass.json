@@ -1,4 +1,4 @@
-{"type":"FeatureCollection", "features": [
+var a = {"type":"FeatureCollection", "features": [
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-114.5788,46.63527]},"properties":{"COUNTYNAME":"Clearwater, Missoula (MT)","ELEVATION":5235,"QUADNAME":"Lolo Hot Springs (MT)","NAME":"Lolo Pass","QUADREF":"46114-F5","STATE":"ID, Idaho; MT, Montana","GNIS_TYPE":"gap","LATITUDE":46.63527,"LONGITUDE":-114.5788}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8069,45.66722]},"properties":{"COUNTYNAME":"Gallatin","ELEVATION":5712,"QUADNAME":"Bozeman Pass","NAME":"Bozeman Pass","QUADREF":"45110-F7","STATE":"MT, Montana","GNIS_TYPE":"gap","LATITUDE":45.66722,"LONGITUDE":-110.8069}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-113.4441,44.97416]},"properties":{"COUNTYNAME":"Beaverhead, Lemhi (ID)","ELEVATION":7373,"QUADNAME":"Lemhi Pass","NAME":"Lemhi Pass","QUADREF":"44113-H4","STATE":"MT, Montana; ID, Idaho","GNIS_TYPE":"gap","LATITUDE":44.97416,"LONGITUDE":-113.4441}},
